@@ -1,5 +1,6 @@
 # EDA-of-Healthcare-data
 Data analysis and exploration project aimed at understanding and visualizing factors that influence whether patients show up for their medical appointments.
+LinkedIn Article Link :- https://www.linkedin.com/pulse/exploratory-data-analytics-healthcare-aman-kumar-uxjaf/
 
 **Project Overview**:
 This project focuses on analyzing a dataset related to medical appointments. The primary goal is to understand the factors that affect whether patients attend their scheduled appointments or not. The dataset contains information about various aspects, including patient demographics, appointment details, and medical conditions.
